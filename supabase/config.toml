@@ -1,0 +1,4 @@
+project_id = "ftu-cotia"
+
+[functions.conselheiro-login]
+verify_jwt = false
